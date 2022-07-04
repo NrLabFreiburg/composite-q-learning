@@ -12,6 +12,12 @@ tabular case and furthermore employ Composite Q-learning within TD3. We compare 
 python motivation.py
 ```
 
+## Requirements
+
+```
+pytorch (1.1.0), gym (0.12.1), mujoco_py (2.0.2.2), MuJoCo, GPU with CUDA support
+```
+
 ## Running Deep Experiments
 
 ```train
